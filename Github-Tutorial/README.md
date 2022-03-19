@@ -1,4 +1,4 @@
-Topics of Github Tutorial 
+## Topics of Github Tutorial 
 1. How to create a github repository in online and how to work in this repository.
 2. How to create a local repository and how to upload it to online.
 3. How to create a branch in your repository and how to merge this branch.
